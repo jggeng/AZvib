@@ -1,0 +1,21 @@
+#Convienience Folders
+.vscode/
+.ipynb-checkpoints/
+/TDMS
+
+# Compiled Object files
+*.pyc
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
